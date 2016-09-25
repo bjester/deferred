@@ -1,4 +1,4 @@
-# deferred
+# promise-be-deferred ![build status](https://travis-ci.org/quavalent/deferred.svg?branch=master)
 Small deferred library (just a class) built on ES6 Promise implementation
 
 ## Intro
