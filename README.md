@@ -6,7 +6,7 @@ This deferred class `extends Promise` to create deferred functionality. A `Defer
 
 ## Usage
 ```js
-let Deferred = require('deferred');
+let Deferred = require('promise-be-deferred');
 let d = new Deferred();
 
 d instanceof Deferred; // true

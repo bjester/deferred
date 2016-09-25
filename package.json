@@ -1,5 +1,5 @@
 {
-  "name": "deferred",
+  "name": "promise-be-deferred",
   "version": "1.0.0",
   "description": "Small deferred library built on ES6 Promise implementation",
   "engines": {
